@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main2);
 
         //修复bug01
+        //添加了新功能01
     }
 }
